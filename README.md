@@ -1,7 +1,7 @@
 ## Hey there 👋
 My name is Bryan and an aspiring information technology specialist!
 
-I love all things with networking and cyber security at the top!
+I love all things tech, but have a strong passion for networking and cybersecurity!
 <!--
 **brybarbstech/brybarbstech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
