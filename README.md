@@ -1,5 +1,5 @@
 ## Hey there 👋
-My name is Bryan and an aspiring information technology specialist!
+My name is Bryan and I'm an aspiring information technology specialist!
 
 I love all things tech, but have a strong passion for networking and cybersecurity!
 <!--
