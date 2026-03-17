@@ -1,7 +1,12 @@
 ## Hey there 👋
-My name is Bryan and I'm an aspiring information technology specialist!
+Hi I'm Bryan! I'm an aspiring IT specialist with a passion for cybersecurity and networking. 
 
-I love all things tech, but have a strong passion for networking and cybersecurity!
+I enjoy learning how systems work, securing them, and building practical skills through hands-on experience.
+
+🔧 Always learning
+🌐 Interested in networking & infrastructure
+🔐 Passionate about cybersecurity
+
 <!--
 **brybarbstech/brybarbstech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
