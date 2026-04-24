@@ -1,5 +1,5 @@
 ## Hey there 👋
-Hi I'm Bryan! I'm an aspiring IT specialist with a passion for cybersecurity and networking. 
+Hi I'm Bryan! I'm an IT specialist with a passion for cybersecurity and networking. 
 
 I enjoy learning how systems work, securing them, and building practical skills through hands-on experience.
 
